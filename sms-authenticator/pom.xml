@@ -21,7 +21,7 @@
 		<dependency>
 			<groupId>com.googlecode.libphonenumber</groupId>
 			<artifactId>libphonenumber</artifactId>
-			<version>8.13.54</version>
+			<version>8.13.55</version>
 		</dependency>
 		<!-- Necessary for proper execution of IDELauncher -->
 		<!-- Can be removed as part of the https://github.com/keycloak/keycloak/issues/22455 enhancement -->
